@@ -1,0 +1,6 @@
+#name,hp,mp,xp,level,classification,weapon
+Leroy,1000,0,500,10,Warrior, Great Axe
+Roland,24578,0,4500,55,Soldier,Assault Rifle
+Zero,70000,0,6023,50,Sniper,Sword
+Axton,0,8596,75,85,Soldier,Shotgun
+
